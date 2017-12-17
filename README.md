@@ -12,4 +12,4 @@ Todo:
   - [ ] PostCSS
   - [ ] Pug
   - [ ] Whatever else...
-- [ ] Set up a client... (see [this](/zacharyrs/zacharyrs.me/tree/client))
+- [ ] Set up a client... (see [this](../client))
